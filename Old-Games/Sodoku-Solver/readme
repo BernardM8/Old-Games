@@ -1,0 +1,6 @@
+SodokuSolver uses reduction loops (based on possible leftover entries) in conjunction with bruteforce/backtracking. Typically solves hard sodoku problems in a fraction of a second. 
+Pygame library must be installed
+main is in GUISokoku so program can be run from there.
+
+Bernard M.
+2/15/23
